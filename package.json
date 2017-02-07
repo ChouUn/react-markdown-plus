@@ -1,0 +1,58 @@
+{
+  "name": "react-markdown-it",
+  "version": "0.1.0",
+  "description": "A react component to render markdown using markdown-it.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run webpack:develop",
+    "build": "npm run build:babel",
+    "build:babel": "babel src --out-dir lib --presets=es2015,react,stage-0",
+    "webpack:develop": "webpack-dev-server --config exam/webpack.config.js --progress --colors --inline",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ChouUn/react-markdown-it.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "markdown",
+    "markdown-it"
+  ],
+  "author": {
+    "name": "ChouUn",
+    "email": "ChouUnSoft@gmail.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^15.4.2"
+  },
+  "dependencies": {
+    "asciimath-to-latex": "^0.3.0",
+    "github-markdown-css": "^2.4.1",
+    "katex": "^0.7.1",
+    "lodash": "^4.17.4",
+    "markdown-it": "^8.2.2",
+    "prismjs-polyfill": "^0.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "css-loader": "^0.26.1",
+    "file-loader": "^0.10.0",
+    "json-loader": "^0.5.4",
+    "raw-loader": "^0.5.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
