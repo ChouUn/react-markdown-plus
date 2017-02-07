@@ -1,5 +1,5 @@
 {
-  "name": "react-markdown-it",
+  "name": "react-markdown-plus",
   "version": "0.1.0",
   "description": "A react component to render markdown using markdown-it.",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ChouUn/react-markdown-it.git"
+    "url": "git@github.com:ChouUn/react-markdown-plus.git"
   },
   "keywords": [
     "react",

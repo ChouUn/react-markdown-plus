@@ -1,4 +1,4 @@
-# React-Markdown-It &middot; [![Build Status](https://travis-ci.org/ChouUn/react-markdown-it.svg?branch=master)](https://travis-ci.org/ChouUn/react-markdown-it) [![npm version](https://img.shields.io/npm/v/react-markdown-it.svg?style=flat)](https://www.npmjs.com/package/react-markdown-it)
+# React-Markdown-Plus &middot; [![Build Status](https://travis-ci.org/ChouUn/react-markdown-plus.svg?branch=master)](https://travis-ci.org/ChouUn/react-markdown-plus) [![npm version](https://img.shields.io/npm/v/react-markdown-plus.svg?style=flat)](https://www.npmjs.com/package/react-markdown-plus)
 
 ## How to use
 
