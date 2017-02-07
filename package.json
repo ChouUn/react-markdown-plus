@@ -1,6 +1,6 @@
 {
   "name": "react-markdown-plus",
-  "version": "0.1.0",
+  "version": "0.1.0a",
   "description": "A react component to render markdown using markdown-it.",
   "main": "lib/index.js",
   "scripts": {

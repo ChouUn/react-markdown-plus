@@ -46,8 +46,8 @@ After Render:
   * [x] convert asciimath to TeX
   * [x] import KaTeX css
   
-[source]: https://github.com/ChouUn/react-markdown-it/blob/master/exam/source.md
-[exam1]:  https://github.com/ChouUn/react-markdown-it/blob/master/img/exam1.png
-[exam2]:  https://github.com/ChouUn/react-markdown-it/blob/master/img/exam2.png
-[exam3]:  https://github.com/ChouUn/react-markdown-it/blob/master/img/exam3.png
-[exam4]:  https://github.com/ChouUn/react-markdown-it/blob/master/img/exam4.png
+[source]: https://github.com/ChouUn/react-markdown-plus/blob/master/exam/source.md
+[exam1]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam1.png
+[exam2]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam2.png
+[exam3]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam3.png
+[exam4]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam4.png
