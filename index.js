@@ -1,3 +1,3 @@
-import Markdown from './lib/Markdown';
+'use strict';
 
-export default Markdown;
+module.exports = require('./lib/Markdown');
