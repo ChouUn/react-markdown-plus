@@ -42,12 +42,20 @@ After Render:
   * [ ] work 2: Toolbar, Show Language, Copy to Clipboard Button
   * [ ] work 3: Previewer
   * [ ] work 4: Keep Markup, Command Line
-* [x] use KaTeX to render math
+* [x] [KaTeX](https://github.com/Khan/KaTeX)
   * [x] convert asciimath to TeX
   * [x] import KaTeX css
-  
+* [ ] diagrams
+  * [ ] [Sequance diagrams](http://knsv.github.io/mermaid/#sequence-diagrams)
+  * [ ] [Flowchart](http://knsv.github.io/mermaid/#flowcharts-basic-syntax)
+  * [ ] [Gant diagrams](http://knsv.github.io/mermaid/#gant-diagrams)
+* [ ] custom container
+* [ ] definition list
+* [ ] [Charts](http://www.chartjs.org/docs/)
+* [ ] footnote
+
 [source]: https://github.com/ChouUn/react-markdown-plus/blob/master/exam/source.md
-[exam1]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam1.png
-[exam2]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam2.png
-[exam3]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam3.png
-[exam4]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam4.png
+[exam1]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam1.png?raw=true
+[exam2]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam2.png?raw=true
+[exam3]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam3.png?raw=true
+[exam4]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam4.png?raw=true
