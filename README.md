@@ -6,12 +6,12 @@
 import React, { Component } from 'react';
 
 import source from './source.md';
-import Markdown from 'react-markdown-it';
+import Markdown from 'react-markdown-plus';
 
 class App extends Component {
   render() {
     return (
-      <Markdown text={source} />
+      <Markdown text={source} style={{maxWidth: 1000}} />
     );
   };
 };
@@ -19,7 +19,8 @@ class App extends Component {
 export default App;
 ```
 
-Source is a `String`.
+Where `source` is a string and `style` is an object. The default
+style is `{margin: '50px auto', maxWidth: 512}`.
 
 ## Example
 
@@ -59,3 +60,4 @@ After Render:
 [exam2]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam2.png?raw=true
 [exam3]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam3.png?raw=true
 [exam4]:  https://github.com/ChouUn/react-markdown-plus/blob/master/img/exam4.png?raw=true
+
